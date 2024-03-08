@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Welkom.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Welkom.md">
+    </toc-element>
+    <toc-element topic="Les-1-wat-is-engineering.md">
+        <toc-element topic="Wat-is-engineering.md"/>
+        <toc-element topic="De-ontwerpcyclus.md"/>
+        <toc-element topic="Programma-van-eisen.md"/>
+        <toc-element topic="Huiswerk.md"/>
+    </toc-element>
+    <toc-element topic="Les-2-Introductie-Onshape.md">
+        <toc-element topic="Het-Onshape-hoofdscherm.md"/>
+        <toc-element topic="Bekijken-en-beoordelen-van-een-ontwerp.md"/>
+    </toc-element>
+    <toc-element topic="Les-3-Ontwerpen-voor-productie.md"/>
+    <toc-element topic="Les-4-Motoren-mechanismes.md"/>
+    <toc-element topic="Eindopdracht-2024-1.md"/>
+</instance-profile>

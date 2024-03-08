@@ -1,7 +1,7 @@
-# Eindopdracht 2024-1: 
+# Eindopdracht 2024-1: "Shooting into Panic"
 
 ## De opdracht
-
+Welkom bij de eindopdracht voor deze lessenserie: "Shooting into Panic". 
 
 ## De manier van werken
 Het is bij deze opdracht **niet** de bedoeling dat je zomaar iets gaat maken. Volg daarom het volgende stappenplan:
@@ -20,7 +20,7 @@ Per team zijn de volgende materialen beschikbaar:
 * 1x REV Ultraplanetary kit met 90° gearbox
 * 2x REV smart robotic servo
 * 2x Compliant wheel
-* 
+* 1x 90mm wiel
 
 ## Afsluiting:
 Vrijdag 14 juni is de laatste dag van deze opdracht. Op deze dag zullen we de verschillende mechanismes gaan testen en kijken welke het meeste punten scoort.

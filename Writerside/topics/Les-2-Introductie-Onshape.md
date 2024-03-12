@@ -7,16 +7,14 @@ Er zijn een aantal redenen waarom tegenwoordig bij bijna ieder ontwerp gebruik w
 
 {type="full" sorted="asc" collapsible="true"}
 Makkelijk aan te passen
-: dynamische waardes, 1 lengte aanpassen en als je alles goed in hebt gesteld past alles zich automatisch aan.
+: Wanneer je dingen ontwerpt komt het vaak voor dat bepaalde afmetingen tijdens het ontwerpproces aangepast worden. Het grote voordeel van een goed CAD-model is dat alle afmetingen automatisch op elkaar aanpassen. Dit kan je definiëren met zogenaamde "Constraints".
 
 Altijd te lezen
-: Iets over tekenkunsten, makkelijk aanpassen eenheden voor productie buitenland, oneindig inzoomen/detail
+: Een probleem met een handgetekende tekening is dat niet iedereen even goed kan tekenen. Ook wijken eenheden af afhankelijk van in welk land je woont. In CAD kan je perfecte technische tekeningen maken en altijd de eenheden naar keuze selecteren.
 
 Ingebouwde simulaties
-: CFD, stress simulaties, software ontwikkeling
+: Verschillende CAD-programma's hebben ingebouwde simulatietools. Hiermee kan je bijvoorbeeld de effecten van krachten en druk berekenen en daarop het ontwerp aanpassen.
 
-Ingebouwde renders
-: uitleg over wat een render is.
 
 ## Waarom Onshape
 Er zijn verschillende CAD-systemen op de markt, welke ieder zijn voordelen en nadelen hebben. Je bent vrij om te kiezen welk systeem je wil gebruiken, maar er zijn enkele redenen waarom we voor Onshape hier op school hebben gekozen:

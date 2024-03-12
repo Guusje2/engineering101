@@ -10,4 +10,8 @@
         <description>Created after removal of "Les 1" from Help Instance</description>
         <accepts>Les-1.html</accepts>
     </rule>
+    <rule id="427849cb">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
 </rules>

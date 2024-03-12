@@ -1,10 +1,5 @@
 # Engineering 101
 
-<!--Writerside adds this topic when you create a new documentation project.
-You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.
-If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
-"Starter" template.-->
-
 ## Welkom
 Welkom bij engineering 101, een lessenserie waarin je leert hoe je verschillende dingen kan ontwerpen en maken. Deze serie bestaat uit een vijftal lessen en een eindopdracht. Tussen de lessen door zal er soms een huiswerkopdracht zijn. 
 
@@ -20,6 +15,6 @@ De eindopdracht van deze lessenserie voer je uit in een groep van 3 leerlingen. 
 Met deze groep ontwerp je samen een component voor een robot, welke zomaar volgend seizoen van pas zou kunnen komen.
 
 ### Eindopdrachten per jaar
-* 2024-1: "Een leuke naam"
+* 2024-1: "[Shooting into Panic](Eindopdracht-2024-1.md)"
 
 

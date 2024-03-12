@@ -6,7 +6,6 @@
                  name="Help Instance"
                  start-page="Welkom.md">
 
-    <toc-element topic="Default-topic.md"/>
     <toc-element topic="Welkom.md">
     </toc-element>
     <toc-element topic="Les-1-wat-is-engineering.md">
@@ -18,6 +17,8 @@
     <toc-element topic="Les-2-Introductie-Onshape.md">
         <toc-element topic="Het-Onshape-hoofdscherm.md"/>
         <toc-element topic="Bekijken-en-beoordelen-van-een-ontwerp.md"/>
+        <toc-element topic="Het-maken-van-een-sketch.md"/>
+        <toc-element topic="Een-3d-model-maken-van-een-sketch.md"/>
     </toc-element>
     <toc-element topic="Les-3-Ontwerpen-voor-productie.md"/>
     <toc-element topic="Les-4-Motoren-mechanismes.md"/>
